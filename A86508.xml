@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honest cryer of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86508</idno>
+            <idno type="STC">Wing H2581</idno>
+            <idno type="STC">Thomason 669.f.23[12]</idno>
+            <idno type="STC">ESTC R211499</idno>
+            <idno type="EEBO-CITATION">99870221</idno>
+            <idno type="PROQUEST">99870221</idno>
+            <idno type="VID">163668</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163668)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f23[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honest cryer of London</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Thompson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire.</note>
+                  <note>Thomason copy imperfect; head cropped with loss of text.</note>
+                  <note>Annotation on Thomason copy: "Jan: 25 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163668:1" rendition="simple:additions"/>
+            <head>The honeſt CRYER
+OF
+LONDON.</head>
+            <p>
+               <seg rend="decorInit">O</seg> 
+               <hi>Yes, O yes, O yes;</hi> Any man or
+woman, in City or Country,
+that hath taken up the Oath of
+Allegiance (in the days of old)
+and would be abſolved from it,
+(if he be not already) let him repair to <hi>Weſt<g ref="char:EOLhyphen"/>minster,</hi>
+upon any day of the Week, and he
+ſhall receive abſolution from his Oath, upon his
+bare paorl, have Gods bleſsing, and be well re<g ref="char:EOLhyphen"/>warded
+for his good ſervice.</p>
+            <p>
+               <hi>O yes, O yes, O yes;</hi> Any man or woman,
+in City or Country, that hath taken up a Pro<g ref="char:EOLhyphen"/>teſtation,
+marked in the mouth with <hi>IAB,</hi>
+do in the preſence of Almighty God, Promiſe,
+Vow, and Proteſt, to maintain and defend,
+<hi>&amp;c.</hi> which was loſt in the year 1641, let them
+bring word to the <hi>Cryer</hi> and they ſhall be well
+rewarded, and have Gods bleſsing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> Any man or woman, in City or
+Country, that hath loſt their Religion, and
+knows not what to do for another, let them
+repair to <hi>Weſtminſter,</hi> and there they may have
+their choice, to be of what Religion they
+pleaſe, provided if be not <hi>Popery</hi> or <hi>Prelacye,</hi>
+and Gods bleſsing on their heart.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> Any man or woman, City or
+Country, that hath loſt a thing, called a <hi>Good
+Conſcience,</hi> which was wrapt up with fair Pre<g ref="char:EOLhyphen"/>tences,
+ſeeming promiſes, ſelf-denyals; which
+was loſt between Heaven and Hell, near <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi>
+about the year 1641, and could never
+ſince be found or heard off, let them bring in
+word to the <hi>Cryer,</hi> and they ſhall be well re<g ref="char:EOLhyphen"/>warded
+and have Gods bleſsing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> Any man or woman, in City or
+Country, <hi>Preſenter</hi> or <hi>Ind pendent,</hi> that hath
+loſt a thing, called a dumb Directory, brought
+from <hi>Geneva</hi> into <hi>Scotland,</hi> and ſo conveyed
+into <hi>England</hi> in <hi>January</hi> 1644. and is gon direct
+awry: if any can bring Tale or Tidings of
+him, let him bring word to the Synod of diſ<g ref="char:EOLhyphen"/>ſembling
+Divines, and they ſhall be well re<g ref="char:EOLhyphen"/>warded
+and have Gods bleſsing for ever.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> If there be any man or woman,
+in City or Country, that hath taken up the ſo<g ref="char:EOLhyphen"/>lemn
+League and Covenant for preſervation
+of our Lives and Liberties, marked with <hi>Par<g ref="char:EOLhyphen"/>liament</hi>
+marks; but loſt in the year 1641. ex<g ref="char:EOLhyphen"/>cept
+it be in ſome few Churches, where it
+ſtands for a Teſtimony of our perfidiouſneſs,
+let them bring word to the <hi>Cryer</hi> that they have
+done their indeavour to perform it, or thoſe
+that never took it, they ſhall be well rewarded
+and have a good bleſsing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> If any man or woman that hath
+taken up any Kings, Queens, Biſhops, or
+Deans and Chapters Lndas, and would gladly
+return them back to the true owners of them,
+becauſe it troubles their <hi>Conſciences</hi> (if they
+have any) let them bring word to the <hi>Cryer,</hi>
+they ſhall have good thanks for their pains, be
+well rewarded, and have Gods bleſsing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> If there be any man or woman,
+in city or country, that hath loſt a good and
+honeſt <hi>PARLIAMENT,</hi> conſiſting of a
+<hi>King, Houſe of Lords,</hi> and a <hi>Houſe of Commons;</hi>
+and would without fraud injoy ſuch another
+again; let them be true of heart together,
+purſue the work with diligence and ſpeed, and
+pay their dues; let them bring word to the
+<hi>Cryer,</hi> they ſhall have it again and Gods bleſ<g ref="char:EOLhyphen"/>ſing.</p>
+            <p>
+               <hi>O yes, O yes, O yes;</hi> If any man or woman, in
+city or country, that hath taken up <hi>Liberty of
+Conſcience,</hi> at any time ſince the year 1648. and
+is fallen into any of the Sects of <hi>Anabaptiſts,
+Independents, Quakers, Ranters, Adamits,
+and ſuch like,</hi> and will not be reclaimed from
+their errours, let them bring word to the <hi>Cry<g ref="char:EOLhyphen"/>er,</hi>
+that he may deliver them to the <hi>Chief Ma<g ref="char:EOLhyphen"/>giſtrate,</hi>
+that they may be ſoundly puniſhed for
+their errours until they recant, and then par<g ref="char:EOLhyphen"/>adventure
+they may eſcape <hi>Damnation,</hi> and
+have Gods bleſſing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> If there be any man or woman
+in city or country (<hi>as I believe there are thou<g ref="char:EOLhyphen"/>ſands</hi>)
+that have loſt a <hi>Good Governour</hi> about
+11 years ago, which through the want of <hi>One</hi>
+all things have been the worſe, and We made
+miſerable ever ſince, let them ſend for the
+True LANDLORD of <hi>Whitehal,</hi> and let
+him have a Leaſe of it and the Three Nations
+for his life, and bring word to the <hi>Cryer</hi> of their
+true affections, they ſhall be well rewarded
+and be ſure of Gods bleſſing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> Any man or woman, in city or
+country, that hath loſt any manner of Silver
+Plate, from the Thimble to the vaſt Goblet,
+in <hi>Guildhal, London,</hi> in the year 1643. and
+ſince, and hath nothing but the <hi>Publick Faith</hi>
+in a piece of Paper for their <hi>Security,</hi> let them
+bring word to the <hi>Cryer,</hi> tell their <hi>marks</hi> upon
+it, and he will tell them they were very fools
+for their labour, and ſhall have no reward for
+it, nor yet Gods bleſſing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> Any man or woman, in city or
+country, that can tell any Tale or Tidings of
+any new Knight, Knighted ſince 1650. who
+hath loſt his Knighthood, and inſtead of being
+called Sir <hi>Thomas,</hi> Sir <hi>John,</hi> or Sir <hi>Richard;</hi>
+is now called Sir <hi>Reverence,</hi> let him not
+think much of it, becauſe Sir <hi>Reverence</hi> is an
+<hi>Aldermans fellow;</hi> but let them bring word to
+the Jakes Farmers of the <hi>City,</hi> he ſhall be made
+a T—higher, and be well rewarded, and
+have a good bleſſing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> If any man or woman, in city
+or country, that can bring Tale or Tidings of
+certain Gentlemen, called by the name of his
+Excellency, or Lord, or Knight, or Colo<g ref="char:EOLhyphen"/>nel,
+or Captain, who went aſtray about the
+latter end of the laſt year, let them bring word
+to <hi>Westminſter, Whitehal,</hi> or <hi>Walingfordhouſe,</hi>
+and they ſhall have the like Titles beſtowed up<g ref="char:EOLhyphen"/>on
+them, if they can keep them, be well re<g ref="char:EOLhyphen"/>warded
+and have Gods bleſſing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> If any man or woman, in city or
+country, that can tell Tale or Tidings whether
+there be any wiſe men in the <hi>City</hi> of <hi>London,</hi>
+who have kept their Fingers out of the E<g ref="char:EOLhyphen"/>ſtates
+of other diſtreſſed men, and have not
+been of the <hi>High Court of Justice</hi> in 1648.
+let them bring word to the <hi>Cryer,</hi> and he ſhall
+be looked upon as an Honeſt man, a Wiſe man,
+and a good Commonwealths man, and be well
+rewarded, and be ſure of Gods bleſſing.</p>
+            <p>
+               <hi>O yes, O yes, O yes;</hi> If there be any man or
+woman, in city or country, that can tell Tale
+or Tidings of a <hi>City-Riden-Aſs,</hi> that went aſtray
+from his Keeper, marked thus: Led by the
+Bridle by a Mace-bearer, with a Head filled
+three parts full of a Parliament, with two long
+Ears, like Clerks Pens, with a Croſs upon
+his Shoulders that parts the <hi>City</hi> from <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi>
+(or Fools from Knaves) with a MAYOR
+riding upon his Back, a Sheriff on each
+ſide, and Four and Twenty Aldermen on his
+Buttocks, and his Belly full of Common-coun<g ref="char:EOLhyphen"/>cil-men,
+and upon his RUMP two Files of
+Muſqueteers, and on his Tail a Colonel, and
+under his Tail, Acts, Orders, Ordenances,
+and Votes of PARLIAMENT, to un<g ref="char:EOLhyphen"/>deceive
+the Good People of the Land. If any
+can bring News where his abode is, and can
+tell Us how long we ſhall be Plagu'd with
+him hereafter, let them bring word to <hi>Guildhal,</hi>
+and they ſhall have their charges paid them for
+detaining him, a great reward, and a goodly
+bleſſing.</p>
+            <p>
+               <hi>O yes, &amp;c.</hi> If there be any man or wo<g ref="char:EOLhyphen"/>man,
+in city or country, that can bring Tale
+or Tidings of a <hi>City Declaration</hi> (marked with
+<hi>A—</hi>) for a <hi>Free Parliament,</hi> the latter end of
+<hi>December</hi> laſt year, and is now ever ſince gone
+aſtray for want of good Execution and pur<g ref="char:EOLhyphen"/>ſuance
+of the ſame: And if any man can tell
+when this will be ſet forward again and pro<g ref="char:EOLhyphen"/>ſecuted
+(as it was intended) let them bring
+word to the <hi>Militia</hi> of <hi>London,</hi> when it is in
+the <hi>Cities</hi> hands again, and they ſhall be well
+rewarded and have Gods bleſſing.</p>
+            <p>
+               <hi>O yes, O yes, O yes;</hi> If there be any
+man or woman, in city or countrey,
+that can bring Tale or Tidings, when thi
+Good, Long, and Old PARLIAMENT
+will be totally Diſſolved, when We ſhall
+have a New FREE PARLIAMENT
+choſen without exceptions, conſiſting of a
+<hi>Houſe of Lords and Commons;</hi> When We
+ſhall have a Monarchchal Government, Pi<g ref="char:EOLhyphen"/>ous
+Biſhops, and a Godly Miniſtry, who
+We ſhall have a True Hearted Nobility
+and a Faithfull Centrey, when <hi>London</hi> wil
+be a loyal <hi>City,</hi> when a Lord Mayor wil
+do righteous things, when Sheriffs will be
+honeſt, and Aldermen will not diſſemble
+when Common-council men will be of one
+mind, and the Commonalty obedientye
+when Souldiers ſhall be Diſbanded, and
+Peace ſetled; when Exciſe and Taxes ſhall
+be aboliſhed, and envy baniſhed; when
+true love ſhall abound, every one injoy,
+his own again, and Errors, Sects, Schiſmes
+ſhall be rooted out; when Trading ſhall
+flouriſh, let them bring word to the
+<hi>Cryer,</hi> and they ſhall be well rewarded and
+have Gods bleſſing to</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> George Thompſon, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
